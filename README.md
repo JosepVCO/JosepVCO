@@ -1,48 +1,56 @@
-# Hi, I'm Josep 👋
+## Hi there 👋
 
-**Data Integration Engineer** based in Prague, open to relocation.
-I spend my days debugging REST APIs, webhooks and ETL / Reverse ETL pipelines for enterprise customers, and I'm now building public projects that show how I approach those problems.
+### Data Integration Specialist, based in Prague
 
-## What I do
+I work on the integration side of a data platform: REST API and webhook
+problems, connector configuration, ETL and Reverse ETL pipelines, and onboarding
+enterprise clients. The part I enjoy most is turning a messy customer
+requirement into a pipeline that runs without anyone touching it.
 
-- **Pipeline & API troubleshooting:** 290+ complex connector, webhook and pipeline issues resolved across 50+ enterprise deals, with root cause analysis and clear reproduction steps.
-- **Connector engineering:** configuring API fields, merging redundant datasets, removing deprecated fields and validating extraction workflows.
-- **Customer-facing technical work:** onboarding enterprise clients and turning data requirements into production-ready pipeline setups.
-- **Proofs of concept:** MongoDB transformations that unblock integrations before a deal closes.
+Working daily with **REST APIs, Meta Graph API, HubSpot, Python, SQL, PostgreSQL, MongoDB, Postman and Grafana**,
+and moving deliberately toward building the tooling, not just debugging it.
 
-## Tech I work with
+---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+### Tools I'm building
 
-REST APIs · Meta Graph API · Webhooks · JSON · Payload validation · Log analysis · Root cause analysis · HubSpot · Jira · Confluence
+I build these for three reasons: to solve the day to day problems I meet at
+work, to turn what I learn into YouTube content, and to create tools that make
+my own projects more efficient and easier to navigate.
 
-## Projects (in progress)
+Everything here uses public APIs and synthetic data, rewritten generic.
 
-| Project | What it shows |
-|---|---|
-| **hubspot-postgres-sync** *(coming soon)* | Incremental HubSpot → PostgreSQL ETL with pagination, rate limits and Reverse ETL |
-| **webhook-validator** *(coming soon)* | Webhook receiver with signature checks, JSON Schema validation and event replay |
-| **api-connector-config** *(coming soon)* | Config-driven API extraction, with fields added or removed through YAML |
+**hubspot-postgres-sync** *(in progress)*
+Incremental HubSpot to PostgreSQL sync with pagination, rate limit handling and
+a Reverse ETL mode that writes data back.
 
-All projects use public APIs and synthetic data.
+**meta-ads-extractor** *(in progress)*
+Pulls Facebook and Instagram Ads metrics through the Meta Graph API, with token
+expiry handling, error code triage and incremental loading.
 
-## Certifications
+**webhook-validator** *(planned)*
+Receives webhooks, verifies signatures, validates payloads against a JSON
+Schema and lets you replay failed events.
+
+**api-connector-config** *(planned)*
+Config driven API extraction: add or remove fields through YAML instead of code.
+
+---
+
+### Certifications
 
 - Microsoft Certified: Azure Data Fundamentals (DP-900)
 - Microsoft Certified: Azure Fundamentals (AZ-900)
-- freeCodeCamp: JavaScript Algorithms & Data Structures, Responsive Web Design
+- freeCodeCamp: JavaScript Algorithms and Data Structures, Responsive Web Design
 
-## Languages
+---
 
-🇪🇸 Spanish (native) · Catalan (native) · 🇬🇧 English (C2) · 🇮🇹 Italian (C2) · 🇫🇷 French (A2) · 🇩🇪 German (A2)
+### Outside work
 
-## Get in touch
+I create content on YouTube, mostly walking through the projects above and how
+they were built.
 
-📍 Prague, Czech Republic · ✉️ Josepvco@gmail.com
+I speak Spanish and Catalan natively, English and Italian at C2, and I am
+working on French and German (A2).
+
+Josepvco@gmail.com · Prague, Czech Republic
