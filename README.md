@@ -21,7 +21,7 @@ I spend my days debugging REST APIs, webhooks and ETL / Reverse ETL pipelines fo
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
-REST APIs · Webhooks · JSON · Payload validation · Log analysis · Root cause analysis · HubSpot · Jira · Confluence
+REST APIs · Meta Graph API · Webhooks · JSON · Payload validation · Log analysis · Root cause analysis · HubSpot · Jira · Confluence
 
 ## Projects (in progress)
 
