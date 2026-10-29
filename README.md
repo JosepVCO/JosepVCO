@@ -2,19 +2,19 @@
 
 ### Data Integration Specialist, based in Prague
 
-I work on the integration side of a data platform: REST API and webhook
+I worked on the integration side of a data platform: REST API and webhook
 problems, connector configuration, ETL and Reverse ETL pipelines, and onboarding
 enterprise clients. The part I enjoy most is turning a messy customer
 requirement into a pipeline that runs without anyone touching it.
 
-Working daily with **REST APIs, Meta Graph API, HubSpot, Python, SQL, PostgreSQL, MongoDB, Postman and Grafana**,
+Hands-on experience with **REST APIs, Meta Graph API, HubSpot, Python, SQL, PostgreSQL, MongoDB, Postman and Grafana**,
 and moving deliberately toward building the tooling, not just debugging it.
 
 ---
 
 ### Tools I'm building
 
-I build these for three reasons: to solve the day to day problems I meet at
+I build these for three reasons: to solve the day to day problems I met at
 work, to turn what I learn into YouTube content, and to create tools that make
 my own projects more efficient and easier to navigate.
 
