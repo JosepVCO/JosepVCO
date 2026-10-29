@@ -43,7 +43,7 @@ failed events.
 
 ### Tools for my content
 
-- **cardmagic-trainer** *(coming soon)* is a card magic training app built with React and TypeScript
+- **[cardmagic-trainer](https://github.com/JosepVCO/cardmagic-trainer)** is a card magic training app built with React and TypeScript
 - **script-maker** *(coming soon)* is a customisable script maker for my videos
 
 ---
